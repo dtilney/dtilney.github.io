@@ -1,0 +1,16 @@
+html 
+{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body
+{
+    background-color: #303030;
+    color: #ddd;
+    text-align: center;
+}
+
+a
+{
+    color: #66D9EF
+}
